@@ -1,16 +1,6 @@
-h1
-{
-    color: rgb(32, 1, 73);
-}
-
 body
 {
-    background:"84249.jpg";
-}
-
-body
-{
-	background: rgb(219, 168, 248);
+	background: rgb(202, 175, 247);
 }
 
 	.login_div1 , .login_div2
@@ -22,7 +12,7 @@ body
 	}
 
 
-#player1_name , #player2_name
+#player_1_name , #player_2_name
 {
 	display: inline-block;
 	margin-left: 20px;
@@ -33,7 +23,7 @@ body
 }
 #word_display
 {
-	letter-spacing: 10px;
+	letter-spacing: 5px;
 }
 #output
 {
@@ -45,7 +35,6 @@ float: none;
 text-align: left;
 }
 
-button:hover { background-color: #6805a1; /* Green */ color: white; height: 60px; width: 80px;}
-button{ background-color: #a805d1;}
-
+button:hover { background-color: #420466; /* Green */ color: white; height: 60px; width: 100px;}
+button{ background-color: #a805d1; border-radius: 20%;}
 
